@@ -18,7 +18,6 @@ The system includes a **Smart Search** feature that handles typos and finds the 
 * **String Matching:** `difflib` (for fuzzy matching).
 
 ## 🚀 How to Run
-
 ### 1. Install Dependencies
 Open your terminal (VS Code: `Ctrl` + `` ` ``) and run:
 
