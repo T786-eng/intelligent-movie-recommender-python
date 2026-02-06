@@ -1,0 +1,18 @@
+==========================================
+   🎬 INTELLIGENT MOVIE RECOMMENDER
+==========================================
+
+[✔] Dataset loaded: 50 movies.
+[✔] Model trained successfully.
+
+What kind of movie are you in the mood for?
+👉 Enter a movie name (or 'q' to quit): avenger
+
+✅ Because you liked **The Avengers** (Action Sci-Fi):
+----------------------------------------
+1. Avengers: Endgame                         | Genre: Action Sci-Fi
+2. Iron Man                                  | Genre: Action Sci-Fi
+3. Spider-Man: No Way Home                   | Genre: Action Sci-Fi
+4. Captain America: Civil War                | Genre: Action Sci-Fi
+5. Thor: Ragnarok                            | Genre: Action Adventure
+----------------------------------------

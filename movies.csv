@@ -1,0 +1,65 @@
+id,title,genre
+0,The Matrix,Action Sci-Fi
+1,John Wick,Action Thriller
+2,The Godfather,Crime Drama
+3,Pulp Fiction,Crime Drama
+4,Avengers: Endgame,Action Sci-Fi
+5,The Hangover,Comedy
+6,Superbad,Comedy
+7,Interstellar,Sci-Fi Adventure
+8,Inception,Sci-Fi Action
+9,Toy Story,Animation Comedy
+10,Titanic,Romance Drama
+11,The Dark Knight,Action Crime Drama
+12,Avatar,Sci-Fi Adventure
+id,title,genre
+0,The Matrix,Action Sci-Fi
+1,John Wick,Action Thriller
+2,The Godfather,Crime Drama
+3,Pulp Fiction,Crime Drama
+4,Avengers: Endgame,Action Sci-Fi
+5,The Hangover,Comedy
+6,Superbad,Comedy
+7,Interstellar,Sci-Fi Adventure
+8,Inception,Sci-Fi Action
+9,Toy Story,Animation Comedy
+10,Titanic,Romance Drama
+11,The Dark Knight,Action Crime Drama
+12,Avatar,Sci-Fi Adventure
+13,Forrest Gump,Drama Romance
+14,Fight Club,Drama
+15,The Lion King,Animation Drama
+16,Gladiator,Action Drama
+17,Jurassic Park,Sci-Fi Adventure
+18,Star Wars: A New Hope,Action Sci-Fi
+19,Finding Nemo,Animation Family
+20,Deadpool,Action Comedy
+21,The Avengers,Action Sci-Fi
+22,Harry Potter and the Sorcerer's Stone,Fantasy Adventure
+23,The Lord of the Rings: The Fellowship of the Ring,Fantasy Adventure
+24,Iron Man,Action Sci-Fi
+25,Spider-Man: No Way Home,Action Sci-Fi
+26,Joker,Crime Drama Thriller
+27,Black Panther,Action Adventure
+28,Frozen,Animation Adventure
+29,Coco,Animation Fantasy
+30,Parasite,Thriller Drama
+31,Get Out,Horror Thriller
+32,It,Horror Thriller
+33,The Conjuring,Horror Mystery
+34,La La Land,Romance Musical
+35,The Notebook,Romance Drama
+36,Pride and Prejudice,Romance Drama
+37,Mad Max: Fury Road,Action Adventure
+38,Mission: Impossible - Fallout,Action Thriller
+39,Top Gun: Maverick,Action Drama
+40,Zootopia,Animation Comedy
+41,Up,Animation Adventure
+42,Inside Out,Animation Comedy
+43,Wall-E,Animation Sci-Fi
+44,Knives Out,Mystery Comedy
+45,Glass Onion,Mystery Crime
+46,Dune,Sci-Fi Adventure
+47,Blade Runner 2049,Sci-Fi Thriller
+48,Bohemian Rhapsody,Biography Music
+49,Oppenheimer,Biography Drama History
